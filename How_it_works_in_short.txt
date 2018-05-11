@@ -1,0 +1,9 @@
+When running it changes wallpaper with a random chosen .jpg file from the source-folder you chose, somewhere between 1 and 5 minutes, chosen by random.
+
+If you want to select another source-folder containing (.jpg) wallpaper-files there's no need to stop the program. Whilst the program is running, delete the 'lswc'-folder in .config/ and a dialogue of a window with a button comes up automaticaly (after the time cycle) and asks you for a source-folder to point at. After that the program continues to change wallpapers from the source-folder you just chose.
+
+It is also possible to edit the path in .config/lswc/homepath.conf by hand, maybe in a remote SSH session or by a script.
+
+Installation can also be done through scripting or called from a script.
+
+Happy computing!!
