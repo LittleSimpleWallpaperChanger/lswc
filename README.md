@@ -22,4 +22,4 @@ Download stuff you are not aware of.
 Alter settings on your pc you don't want.
 Install a lot of files you don't need.
 
-For questions: drop me a line on e-mail(as stated in the readme/installer) or twitter @\_LSWC\_
+Please read the wiki, or for questions: drop me a line on e-mail(as stated in the readme/installer) or twitter @\_LSWC\_
