@@ -22,7 +22,6 @@ Download stuff you are not aware of,  Alter settings on your pc you don't want o
 
 And there is this ..
 --------------------
-An early 2020 update -- in order to get a better random choice in time between 1 and 5 minutes, change line 79 in 'loop_run = random.randint(60,300)'  --(without the quotes)-- 
 
 Please read the wiki, or for questions: drop me a line on e-mail(as stated in the readme/installer) or twitter @\_LSWC\_
                         
