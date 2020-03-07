@@ -1,6 +1,9 @@
 # lswc
 Little simple wallpaper changer
-.. or in short lswc, is a standalone wallpaper changer designed to run in the user environment to change the wallpaper in a time period somewhere between 1 and 5 minutes, decided by a randomizer. You can change the program to fit to you needs or leave as is to enjoy the pictures you like on your desktop. These can be the pictures of your family, the artwork you created or anything that fits on a .jpg. It was initially designed on and for use on Ubuntu 18.04 (which is a trademark of Canonical Inc) but now it can be used on all distros running Gnome or gnome alike.
+.. or in short lswc, is a standalone wallpaper changer designed to run in the user environment to change the wallpaper in a time period somewhere between 1 and 5 minutes, decided by a randomizer. You can change the program to fit to you needs or leave as is to enjoy the pictures you like on your desktop. These can be the pictures of your family, the artwork you created or anything that fits on a .jpg. It was initially designed on and for use on Ubuntu 18.04 (which is a trademark of Canonical Inc) but now it can be used on all distros running Gnome or gnome alike, like Lubuntu, Mate and Mint.
+
+* Updates have 2020 in their name
+-------------------------------------
 
 Intention of creating this program:
 -----------------------------------
@@ -17,18 +20,11 @@ What this program does:
 Ask you to point to a 'wallpaper'-folder, filled with .jpg files. This chosen path is then stored in a file It then selects a .jpg file, also random chosen, and registers that file as the current wallpaper. It then pauses for a random time period (between 1 and 5 minutes) and again selects a .jpg file from the folder.
  
 What this program does not do:
-------------------------------An early 2020 update -- in order to get a better random choice in time between 1 and 5 minutes, change line 79 in 'loop_run = random.randint(60,300)'  --(without the quotes)-- 
-An early 2020 update -- in order to get a better random choice in time between 1 and 5 minutes, change line 79 in 'loop_run = random.randint(60,300)'  --(without the quotes)-- 
-
-
-
+------------------------------
 Download stuff you are not aware of,  Alter settings on your pc you don't want or Install a lot of files you don't need.
 
 And there is this ..
 --------------------
-An early 2020 update -- in order to get a better random choice in time between 1 and 5 minutes, change line 79 in 'loop_run = random.randint(60,300)'  --(without the quotes)-- 
-
-
 
 Please read the wiki, or for questions: drop me a line on e-mail(as stated in the readme/installer) or twitter @\_LSWC\_
                         
