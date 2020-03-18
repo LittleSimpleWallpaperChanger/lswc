@@ -9,9 +9,9 @@ Little simple wallpaper changer
 
 These '2020' packages are an update to the other older files in this directory.
 Adjustments are made in the README_.. installer file with added instructions on how to install in a better way, to ignore an error at the end of installation and also to supply a 'autostart' folder.
-In the lswc script file the randomizer is adjusted to accomplish a better random time between 1 and 5 minutes.
+In the lswc script file the randomizer is adjusted to accomplish a better random time between 1 and 5 minutes. The filename of your pictures now can have more characters included in the name. ([.-_+()@#]  ..feel free to adjust this filter to your taste.
 
-If you have lswc already running, just replace the file 'ĺswc' from the zip-package in .local/scripts/lswc/ in your home folder.
+If you have lswc already running, just replace the file 'ĺswc' from the zip-package, according to your distro flavor, in .local/scripts/lswc/ in your home folder.
 
 
 Intention of creating this program:
