@@ -3,15 +3,14 @@ Little simple wallpaper changer
 .. or in short lswc, is a standalone wallpaper changer designed to run in the user environment to change the wallpaper in a time period somewhere between 1 and 5 minutes, decided by a randomizer. You can change the program to fit to you needs or leave as is to enjoy the pictures you like on your desktop. These can be the pictures of your family, the artwork you created or anything that fits on a .jpg. It was initially designed on and for use on Ubuntu 18.04 (which is a trademark of Canonical Inc) but now it can be used on all distros running Gnome or gnome alike, like Lubuntu, Mate and Mint.
 
 
-*Updates with 2020 in their name*
+*Updates with 2022 in their name*
 ---------------------------------
- Added newer and adjusted packages, ready for 2020.
+ Added newer and adjusted packages, ready for 2022.
 
-These '2020' packages are an update to the other older files in this directory.
-Adjustments are made in the README_.. installer file with added instructions on how to install in a better way, to ignore an error at the end of installation and also to supply a 'autostart' folder.
-In the lswc script file the randomizer is adjusted to accomplish a better random time between 1 and 5 minutes. The filename of your pictures now can have more characters included in the name. ([.-_+()@#]  ..feel free to adjust this filter to your taste.
+These '2022' packages are an update. Adjustments are made in the main file, line 25 got an addition of _', Gio'_ and in line 78 i changed the _apostrophes_ in _quotation Marks_.
+The result?  less nagging in the logfiles. I got the idea the program works much better ;-)
 
-If you have lswc already running, just replace the file 'ĺswc' from the zip-package, according to your distro flavor, in .local/scripts/lswc/ in your home folder.
+** If you have lswc already running, just replace the file 'Lswc' from the zip-package - according to your distro flavor, by copying it to .local/scripts/lswc/ in your home folder.
 
 
 Intention of creating this program:
