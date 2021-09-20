@@ -5,10 +5,10 @@ Little simple wallpaper changer
 
 *Updates with 2022 in their name*
 ---------------------------------
- Added newer and adjusted packages, ready for 2022.
+ Changed some lines, and changed the name, ready for 2022.
 
-These '2022' packages are an update. Adjustments are made in the main file, line 25 got an addition of _', Gio'_ and in line 78 i changed the _apostrophes_ in _quotation Marks_.
-The result?  less nagging in the logfiles. I got the idea the program works much better ;-)
+This is version '2022'. These packages are the latest version. Adjustments are made in the main file, line 25 got an addition of _', Gio'_ and in line 78 i changed the _apostrophes_ in _quotation Marks_.
+The result?  less nagging in the logfiles. I got the impression the program works much better ;-)
 
 ** If you have lswc already running, just replace the file 'Lswc' from the zip-package - according to your distro flavor, by copying it to .local/scripts/lswc/ in your home folder.
 
