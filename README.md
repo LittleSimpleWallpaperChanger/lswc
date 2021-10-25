@@ -7,7 +7,7 @@ Little simple wallpaper changer
 ---------------------------------
  Changed some lines, and changed the name, ready for 2022.
 
-This is version '2022'. These packages are the latest version. Adjustments are made in the main file, line 25 got an addition of _', Gio'_ and in line 78 i changed the _apostrophes_ in _quotation Marks_.
+This is version '2022'. These packages are the latest version. Adjustments are made in the main file, line 25 got an addition of _', Gio'_ and in line 78 i changed the _apostrophes_ in _quotation Marks_. Lines 44 and 49 are adjusted to comply with modern Gtk standards.
 The result?  less nagging in the logfiles. I got the impression the program works much better ;-)
 
 ** If you have lswc already running, just replace the file 'Lswc' from the zip-package - according to your distro flavor, by copying it to .local/scripts/lswc/ in your home folder.
