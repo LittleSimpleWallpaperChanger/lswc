@@ -3,6 +3,22 @@ Little simple wallpaper changer
 .. or in short lswc, is a standalone wallpaper changer designed to run in the user environment to change the wallpaper in a time period somewhere between 1 and 5 minutes, decided by a randomizer. You can change the program to fit to you needs or leave as is to enjoy the pictures you like on your desktop. These can be the pictures of your family, the artwork you created or anything that fits on a .jpg. It was initially designed on and for use on Ubuntu 18.04 (which is a trademark of Canonical Inc) but now it can be used on all distros running Gnome or gnome alike, like Lubuntu, Mate and Mint.
 
 
+# What happened in Ubuntu 22.04 .. 
+well, everyone likes a dark theme right?
+
+lets digg in the code::</br>
+ goto ~/.local/scripts/lswc, and open lswc in a text editor.</br>
+ 
+In the picture underneath one can see the line ending with 'picture-uri'.
+When one enjoys the dark theme, add '-dark'  to the line and your wallpapers will be changed again.
+If one rather has the ' light'  theme, just use LSWC as is.
+
+![image](https://user-images.githubusercontent.com/39194264/163041125-283424f3-46b5-46af-9089-ae7f8af034f7.png)
+
+*I will make a new version, untill then use this solution*
+
+---------------------------------
+
 *Updates with 2022 in their name*
 ---------------------------------
  Changed some lines, and changed the name, ready for 2022.
